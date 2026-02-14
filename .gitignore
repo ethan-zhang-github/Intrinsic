@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+venv/
+*.json
+test_hk_data.py
+.gemini/skills/*/scripts/.cache/
